@@ -1,0 +1,16 @@
+{
+
+	"ads": {
+		"Banner_ironSource": "DefaultBanner",
+		"Inter_ironSource": "DefaultInterstitial",
+		"reword_ironSource": "DefaultRewarded",
+
+		"ironSource_app_key": "1bd4b79a5",
+
+		"GetApp_Url": "https://play.google.com/store/apps/details?id=com.gamespacepro.progamesspeaceprogamesd",
+		"urlrateus": "https://play.google.com/store/apps/details?id=com.gamespacepro.progamesspeaceprogamesd",
+		"Privicyurl": "https://rentry.co/ms57k"
+
+	}
+
+}
